@@ -1,0 +1,40 @@
+﻿src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/App.tsx(14,10): error TS1484: 'FilterPeriod' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Button/Button.tsx(1,17): error TS1484: 'ButtonHTMLAttributes' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/DatePicker/DatePicker.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/DatePicker/DatePicker.tsx(3,1): error TS6133: 'format' is declared but its value is never read.
+src/components/DatePicker/DatePicker.tsx(4,1): error TS6133: 'cn' is declared but its value is never read.
+src/components/DatePicker/DatePicker.tsx(15,47): error TS6133: 'startDate' is declared but its value is never read.
+src/components/DatePicker/DatePicker.tsx(15,58): error TS6133: 'endDate' is declared but its value is never read.
+src/components/EntriesChart/EntriesChart.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/EntriesChart/EntriesChart.tsx(4,10): error TS1484: 'ChartDataPoint' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/FilterTab/FilterTab.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/FilterTab/FilterTab.tsx(3,10): error TS1484: 'FilterPeriod' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/MerchantsList/MerchantsList.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/MerchantsList/MerchantsList.tsx(3,10): error TS1484: 'Merchant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/OtherActivities/OtherActivities.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/OtherActivities/OtherActivities.tsx(3,10): error TS1484: 'TopMerchantActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/OtherActivities/OtherActivities.tsx(3,31): error TS1484: 'MostUsedTokenActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/OtherActivities/OtherActivities.tsx(3,54): error TS1484: 'FraudDetectionActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/OverviewStats/OverviewStats.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/PerformanceCharts/PerformanceCharts.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/PerformanceCharts/PerformanceCharts.tsx(3,84): error TS6133: 'Legend' is declared but its value is never read.
+src/components/RecentTransactions/RecentTransactions.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/RecentTransactions/RecentTransactions.tsx(4,10): error TS1484: 'Transaction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Sidebar/Sidebar.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/SkeletonList/SkeletonList.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/TokenActivity/TokenActivity.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/TokenActivity/TokenActivity.tsx(3,10): error TS1484: 'TokenActivityStat' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/TopBar/TopBar.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/data/index.ts(2,3): error TS1484: 'ChartDataPoint' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(3,3): error TS1484: 'Merchant' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(4,3): error TS1484: 'TokenActivityStat' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(5,3): error TS1484: 'TopMerchantActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(6,3): error TS1484: 'MostUsedTokenActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(7,3): error TS1484: 'FraudDetectionActivity' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/data/index.ts(8,3): error TS1484: 'Transaction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useDashboard.ts(1,20): error TS6133: 'useMemo' is declared but its value is never read.
+src/hooks/useDashboard.ts(2,10): error TS1484: 'DateRange' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useDashboard.ts(2,21): error TS1484: 'FilterPeriod' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/hooks/useTransactions.ts(2,10): error TS1484: 'Transaction' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/utils/cn.ts(1,1): error TS6133: 'React' is declared but its value is never read.
