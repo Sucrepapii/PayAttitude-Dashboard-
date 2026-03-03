@@ -1,10 +1,10 @@
-# PayAttitude Dashboard 📊
+# PayAttitude Dashboard 
 
 A modern, responsive, and robust React dashboard application built using Vite, TypeScript, and Tailwind CSS. The dashboard is designed to visualize critical tokenization data, track recent transactions, map merchant activity, and provide a unified administrative interface using a clean compositional component architecture.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 - **Comprehensive Overview:** At-a-glance statistics for Token requests, successful, failed, and removed tokens.
 - **Interactive Data Visualization:** Tokenization vs. Detokenization performance charts and historical Entries over time line charts.
@@ -14,7 +14,7 @@ A modern, responsive, and robust React dashboard application built using Vite, T
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Framework:** [React 19](https://react.dev/)
 - **Build Tool:** [Vite](https://vitejs.dev/)
@@ -26,7 +26,7 @@ A modern, responsive, and robust React dashboard application built using Vite, T
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ This command compiles the TypeScript files and bundles the optimized application
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 A brief overview of the core application structure:
 
@@ -86,7 +86,7 @@ src/
 
 ---
 
-## 🏗️ Architecture & Tradeoffs
+##  Architecture & Tradeoffs
 
 While conceptualizing and building this dashboard, deliberate architectural choices and tradeoffs were made to balance speed of development with codebase maintainability.
 
@@ -107,7 +107,7 @@ While conceptualizing and building this dashboard, deliberate architectural choi
 
 ---
 
-## 🔮 Future Improvements (If given more time)
+##  Future Improvements (If given more time)
 
 If given more runway to extend this application, here are the primary areas I would tackle next:
 
